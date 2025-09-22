@@ -1,7 +1,7 @@
 {
 	"description": "Sets the Language indicator in the status area to uppercase. a fork from original Buffersolve Uppercase Language Indicator extension.",
 	"name": "CapLang Indicator",
-	"shell-version": ["45", "46", "47", "48"],
+	"shell-version": ["45", "46", "47", "48", "49"],
 	"url": "https://github.com/anasgets111/Uppercase-Language-Indicator",
 	"uuid": "caplang-indicator@anasgets111.github.com",
 	"version": 1
